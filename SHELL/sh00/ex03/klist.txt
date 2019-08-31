@@ -1,0 +1,7 @@
+Credentials cache: API:58015
+        Principal: esidelar@LE-101.FR
+
+  Issued                Expires               Principal
+Jul  1 10:44:49 2019  Jul  1 20:44:47 2019  krbtgt/LE-101.FR@LE-101.FR
+Jul  1 10:44:49 2019  Jul  1 20:44:47 2019  ldap/ldap-master.le-101.fr@LE-101.FR
+Jul  1 10:44:49 2019  Jul  1 20:44:47 2019  HTTP/san-ssd.le-101.fr@LE-101.FR
